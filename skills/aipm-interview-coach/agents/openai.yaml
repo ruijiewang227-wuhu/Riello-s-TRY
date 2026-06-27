@@ -1,0 +1,4 @@
+interface:
+  display_name: "AIPM 面试教练"
+  short_description: "训练 AI 产品经理面试中的产品分析、技术追问和背诵卡片。"
+  default_prompt: "Use $aipm-interview-coach to help me answer an AI Product Manager interview question."
